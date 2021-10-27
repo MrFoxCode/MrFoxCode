@@ -1,12 +1,11 @@
 <div>  
 </div>
 
-<div style="display: inline_block">
-<img height= 182m src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&theme=blue-green">
+<div>
+<img height= 180em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
+<img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFoxCode&layout=compact&langs_count=7&theme=ayu-mirage">
 </div>
-
 <p></p>
-
 <div> 
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -40,6 +39,7 @@
 </div>
 <h2></h2>
 
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/990cbe716124e0b5410a52d1549197b140b1d601/github-contribution-grid-snake.svg">
 
 
 
