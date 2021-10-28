@@ -25,7 +25,9 @@
 𝗢𝗧𝗛𝗘𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘𝗦
 <p></p>
 <div>
-<img height= 35cm src="https://www.newera.com.cy/wp-content/uploads/2017/11/DaVinci_Resolve_Logo.png"> 
+<img height= 35cm src="https://www.newera.com.cy/wp-content/uploads/2017/11/DaVinci_Resolve_Logo.png">
+ <img height= 35cm src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png">
+ 
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
 <img height= 35cm src="https://cdn.pngsumo.com/fileadobe-after-effects-cc-iconpng-wikimedia-commons-after-effect-png-492_480.png">
