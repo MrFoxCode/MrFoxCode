@@ -1,13 +1,13 @@
 
 
 <div>
+<a href="https://github.com/MrFoxCode"> 
 <img height= 180em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
-
-<img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFoxCode&layout=compact&langs_count=7&theme=ayu-mirage">
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
+
 <p></p>
-<div style="display:inline_block">
+<div align="center"style="display:inline_block">
  <!---
  <img height= 35cm src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 ---> 
