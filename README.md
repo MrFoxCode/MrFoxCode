@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/MrFoxCode"> 
 <img height= 170em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&langs_count=7&theme=ayu-mirage"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 
 <p></p>
