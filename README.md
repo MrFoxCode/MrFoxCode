@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/360375060764295168/903168631817531453/Untitled-1.jpg">
+
 
 <div>
 <img height= 180em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
