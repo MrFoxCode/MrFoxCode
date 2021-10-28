@@ -7,7 +7,7 @@
 </div>
 
 <p></p>
-<div align="center"style="display:inline_block">
+<div style="display:inline_block">
  <!---
  <img height= 35cm src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 ---> 
