@@ -4,7 +4,8 @@
 <a href="https://github.com/MrFoxCode"> 
 <img height= 160em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
+</a>
+ </div>
 
 <p></p>
 <div style="display:inline_block">
@@ -15,7 +16,7 @@
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
-</a>
+
 <h2></h2>
 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘𝗦
 <p></p>
