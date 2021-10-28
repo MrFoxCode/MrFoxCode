@@ -2,9 +2,9 @@
 
 <div>
 <img height= 180em src="https://github-readme-stats.vercel.app/api?username=MrFoxCode&show_icons=true&theme=ayu-mirage">
-<!---
+
 <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFoxCode&layout=compact&langs_count=7&theme=ayu-mirage">
---->
+
 </div>
 <p></p>
 <div style="display:inline_block">
