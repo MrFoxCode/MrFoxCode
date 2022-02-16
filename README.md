@@ -47,9 +47,9 @@
 <h2></h2>
 
 
-<!---
+
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/990cbe716124e0b5410a52d1549197b140b1d601/github-contribution-grid-snake.svg">
---->
+
 
 
 
