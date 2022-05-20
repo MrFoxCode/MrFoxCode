@@ -25,7 +25,7 @@
 <div>
 <img height= 35cm src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img height= 35cm src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-</div><br>
+</div>
 <p></p>
 𝗢𝗧𝗛𝗘𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘𝗦
 <p></p>
