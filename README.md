@@ -31,7 +31,7 @@
 <p></p>
 <div>
 <img height= 35cm src="https://www.newera.com.cy/wp-content/uploads/2017/11/DaVinci_Resolve_Logo.png">
- <img height= 35cm src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png">
+<img height= 35cm src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png">
  
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
@@ -47,12 +47,4 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 <h2></h2>
-
-
-<!---
-<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/990cbe716124e0b5410a52d1549197b140b1d601/github-contribution-grid-snake.svg">
---->
-
-
-
 
