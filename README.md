@@ -8,7 +8,7 @@
  </div>
 
 <p></p>
-<div style="display:inline_block;">
+<div style="display:inline_block; justify-content:center;">
  <!---
  <img height= 35cm src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 ---> 
