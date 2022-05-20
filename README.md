@@ -8,15 +8,15 @@
  </div>
 
 <p></p>
-<div align= "center" style="display:inline_block">
+<div style="display:inline_block">
  <!---
  <img height= 35cm src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 ---> 
-<img  height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
- <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
- <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img height= 35cm src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
- <img height= 35cm src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
+<img align= "center" height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+ <img align= "center" height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+ <img align= "center" height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+ <img align= "center" height= 35cm src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+ <img align= "center" height= 35cm src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
 </div>
 
 <h2></h2>
