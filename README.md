@@ -16,6 +16,7 @@
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img height= 35cm src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+ <img height= 35cm src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
 </div>
 
 <h2></h2>
