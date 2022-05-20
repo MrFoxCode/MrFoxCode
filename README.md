@@ -25,7 +25,7 @@
 <div>
 <img height= 35cm src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img height= 35cm src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-</div>
+</div><br>
 <p></p>
 𝗢𝗧𝗛𝗘𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘𝗦
 <p></p>
@@ -35,7 +35,7 @@
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
 <img height= 35cm src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
 <img height= 35cm src="https://cdn.pngsumo.com/fileadobe-after-effects-cc-iconpng-wikimedia-commons-after-effect-png-492_480.png">
-</div><br>
+</div>
 
 <h2></h2>
 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 
