@@ -16,7 +16,7 @@
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
  <img height= 35cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img height= 35cm src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
- <img height= 35cm src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg](https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/>
+ <img height= 35cm src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/>
  <img height= 35cm src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
 </div>
 
