@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,ae,xd,ai,figma,git," height: 20px />
+    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git," />
   </a>
 </p>
 
