@@ -46,7 +46,7 @@
 
 <p align="left">
     <a>
-    <img src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png" height="28px" />
-    <img src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
+    <img src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png" height="38px" />
+    <img margin="5px" src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
   </a>
   </p>
