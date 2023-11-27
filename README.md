@@ -9,7 +9,7 @@
 - 💻 one
 - 🎓 two
 - 👨‍💻 three
-- 💼 four.
+- 💼 Currently working as IT Analyst on <a href="https://ecopol.com.br">Ecopol</a>.
 
 
 </a>
