@@ -1,6 +1,6 @@
 <div align="right" flex-direction="columns">
 <a href=https://rondnelle.vercel.app/pt target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1200px-Windows_Terminal_logo.svg.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right")">
+<img src="https://cdn.icon-icons.com/icons2/185/PNG/512/Terminal_22714.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right")">
 </div>
 </a>
 
