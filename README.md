@@ -1,6 +1,6 @@
 
 <a href=https://rondnelle.vercel.app/pt target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right" filter="brightness(0)" filter="invert(1)">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1200px-Windows_Terminal_logo.svg.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right")">
 
 </a>
 
