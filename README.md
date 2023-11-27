@@ -6,6 +6,10 @@
 
 ## 🖖 Hello!, my name is <strong>Rondnelle!</strong>
 <h3> I am a Front End developer on a journey to learn something new everyday!</h3>
+- 💻 
+- 🎓 
+- 👨‍💻 
+- 💼 
 
 ### 📊 Dev Log
 
