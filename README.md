@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git" height="40px" />
-    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fxz9c36v5h8n61.png" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/800px-DaVinci_Resolve_17_logo.svg.png" height="40px" />
   </a>
 </p>
 
