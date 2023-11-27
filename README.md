@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git,linux" height="40px" />
+    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git" height="40px" />
   </a>
  
 </p>
@@ -45,5 +45,7 @@
 ### 📱 System:
 
 <p align="left">
- 
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
+  </a>
   </p>
