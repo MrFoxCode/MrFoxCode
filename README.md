@@ -4,7 +4,7 @@
 ### 📊 Dev Log
 
 <a href="https://github.com/mrfoxcode" title="Deeds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfoxcode/>
 </a>
 
 ## 🚀 My Skills
