@@ -47,7 +47,7 @@
 
 <p align="left">
     <a>
-    <img src="https://icons-for-free.com/iconfiles/png/512/window+windows+icon-1320192249771688573.png" height="40px" />
+    <img src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png" height="40px" />
     <img src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
   </a>
   </p>
