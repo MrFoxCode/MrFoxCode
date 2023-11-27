@@ -29,7 +29,7 @@
 ## 🛠️Tools that I work with
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git" height="40px" />
   </a>
  
@@ -45,7 +45,7 @@
 ### 📱 System:
 
 <p align="left">
-    <a href="https://skillicons.dev">
+    <a>
     <img src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
   </a>
   </p>
