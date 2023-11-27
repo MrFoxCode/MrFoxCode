@@ -1,6 +1,6 @@
 
 <a href=https://rondnelle.vercel.app/pt>
-<img src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" brightness= "1" invert="1"alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" brightness= "0" invert="1"alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right">
 
 </a>
 
