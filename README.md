@@ -1,6 +1,6 @@
 <div align="right" flex-direction="columns">
 <a href=https://rondnelle.vercel.app/pt target="_blank">
-<img src="https://cdn.icon-icons.com/icons2/185/PNG/512/Terminal_22714.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right")">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/smart-gadgets-5000599-4171324.png?f=webp" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right")">
 </div>
 </a>
 
