@@ -6,7 +6,7 @@
 <a href="https://github.com/mrfoxcode" title="Deeds">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ayu-mirage"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&theme=dark"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=compact&theme=ayu-mirage"/>
 </a>
 
 ## 🚀 My Skills
