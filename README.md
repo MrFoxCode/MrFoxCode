@@ -5,7 +5,7 @@
 
 <a href="https://github.com/mrfoxcode" title="Deeds">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfoxcode&show_icons=true&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=donut-vertical&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=donut-vertical&compact&theme=dark"/>
 </a>
 
 ## 🚀 My Skills
