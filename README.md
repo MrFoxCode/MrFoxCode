@@ -11,11 +11,7 @@
 - 👨‍💻 three
 - 💼 four.
 
-### 📊 Dev Log
-<a href="https://github.com/mrfoxcode" title="Deeds">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ayu-mirage"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=donut&theme=ayu-mirage"/>
- 
+
 </a>
 
 ## 🚀 My Skills
@@ -35,6 +31,11 @@
 </p>
 
 <br>
+
+### 📊 Dev Log
+<a href="https://github.com/mrfoxcode" title="Deeds">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ayu-mirage"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&layout=donut&theme=ayu-mirage"/>
 
 ### 📱 System:
 
