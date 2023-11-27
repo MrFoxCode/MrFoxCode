@@ -1,7 +1,8 @@
-
+<div>
+ <tittle>Portfolio</tittle>
 <a href=https://rondnelle.vercel.app/pt target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1200px-Windows_Terminal_logo.svg.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right")">
-
+</div>
 </a>
 
 ## 🖖 Hello!, my name is <strong>Rondnelle!</strong>
