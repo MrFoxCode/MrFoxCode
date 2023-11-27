@@ -7,10 +7,10 @@
 ## 🖖 Hello!, my name is <strong>Rondnelle!</strong>
 <h3> I am a Front End developer on a journey to learn something new everyday!</h3>
 
-  -💻 Currently learning NextJS.
-  -🎓 More than 2 years of experience as a Front End Developer.
-  -👨‍💻 Learning new skills daily in order to be part of a bright technological future.
-  -💼 Currently working as IT Analyst on <a href="https://ecopol.com.br">Ecopol</a>.
+  *💻 Currently learning NextJS.
+  *🎓 More than 2 years of experience as a Front End Developer.
+  *👨‍💻 Learning new skills daily in order to be part of a bright technological future.
+  *💼 Currently working as IT Analyst on <a href="https://ecopol.com.br">Ecopol</a>.
 
 
 </a>
