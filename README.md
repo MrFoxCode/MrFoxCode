@@ -21,7 +21,7 @@
 ## 🚀 My Skills
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,sass,flutter,dart" height="40px" />
   </a>
 </p>
