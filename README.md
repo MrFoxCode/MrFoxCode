@@ -4,7 +4,7 @@
 ### 📊 Dev Log
 
 <a href="https://github.com/mrfoxcode" title="Deeds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxcode&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent/>
 </a>
 
 ## 🚀 My Skills
