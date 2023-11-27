@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/8297/8297190.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/8297/8297190.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right">
 
 
 ## 🖖 Hello!, my name is <strong>Rondnelle!</strong>
