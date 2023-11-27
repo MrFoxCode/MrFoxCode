@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ps,pr,xd,ae,figma,git" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="43px" />
   </a>
 </p>
 
