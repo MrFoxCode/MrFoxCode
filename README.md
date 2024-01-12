@@ -4,7 +4,7 @@
 </div>
 </a>
 
-## 🖖 Hello!, my name is <strong>Rondnelle!</strong>
+## 🖖 Hello!
 <h3> I am a Front End developer on a journey to learn something new everyday!</h3>
 
   * 💻 Currently learning NextJS.
