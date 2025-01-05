@@ -46,7 +46,6 @@
 
 <p align="left">
     <a>
-   
-    <img margin-left="10px" src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
+      <img margin-left="10px" src="https://skillicons.dev/icons?i=linux,windows" height="40px" />
   </a>
   </p>
