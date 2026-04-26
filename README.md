@@ -13,7 +13,7 @@
     
   * 👨‍💻 Learning new skills daily in order to be part of a bright technological future.
     
-  * 💼 Currently working as IT Analyst on <a href="https://ecopol.com.br">Ecopol</a>.
+  * 💼 Currently Open to Work</a>.
 
 
 </a>
